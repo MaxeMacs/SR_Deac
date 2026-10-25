@@ -1,0 +1,3 @@
+# Web Framework & API tools (Lab 01)
+Flask>=3.0.0
+user-agents>=2.2.0
