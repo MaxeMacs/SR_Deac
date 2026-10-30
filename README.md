@@ -23,3 +23,5 @@ Informatiile continute in dataset sunt urmatoarele:
 Datasetul este incarcat in Recombee prin recombee_items. 
 
 Categoriile din dataset incluse sunt Numele laptopului (Laptop), model procesor (CPU), model GPU (GPU sau daca nu e in dataset, il consideram Integrated), capacitate RAM (RAM) si stocare (Storage).
+
+De asemenea, requirements include acum si bibliotecile recombee-api-client si pandas. 
